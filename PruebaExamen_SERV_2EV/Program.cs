@@ -13,7 +13,7 @@ namespace PruebaExamen_SERV_2EV
         {
             ServidorArchivos s = new ServidorArchivos();
             
-            Console.WriteLine(s.listaArchivos());
+            Console.WriteLine(s.ListaArchivos());
             Console.ReadKey();
         }
     }
